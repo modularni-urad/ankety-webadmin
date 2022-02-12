@@ -1,0 +1,8 @@
+apps:
+  - module: ./index.js
+    url: https://modurad.otevrenamesta.cz/omstredni/ankety/
+    listViewName: 'ankety'
+
+user:
+  username: vencax
+  password: hovno
