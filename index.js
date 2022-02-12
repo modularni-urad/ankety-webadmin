@@ -1,5 +1,5 @@
 import ListComponent from './src/components/list.js'
-import OptionListComponent from '/src/components/optionlist.js'
+import OptionListComponent from './src/components/optionlist.js'
 import { ROUTE_NAMES, ADMIN_GROUP } from './src/consts.js'
 import { ANKETA_FORM_CONFIG, OPTION_FORM_CONFIG } from './src/formconfig.js'
 
